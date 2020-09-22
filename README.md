@@ -46,3 +46,5 @@ There are 5 cases models were trained on
 3. L1 & L2 Regularization with Batch Normalization
 4. Ghost Batch Normalization (GBN)
 5. L1 & L2 Regularization with GBN
+
+All the 5 cases have been coded to run automatically in order. Please make necessary changes to run a single case.
