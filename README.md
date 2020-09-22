@@ -2,7 +2,7 @@
 
 This repository contains datasets with 5 different Normalization and Regularization Techniques combined
 
-#Normalization:
+# Normalization:
 Normalization is a technique often applied as part of data preparation for machine learning. The goal of normalization is to change the values of numeric columns in the dataset to use a common scale, without distorting differences in the ranges of values or losing information. Normalization is also required for some algorithms to model the data correctly.
 
 # Regularization: 
@@ -22,9 +22,9 @@ very few features have non zero weights.
 
 Features:
 L1 penalizes the sum of the absolute value of weights.
-L1 has a sparse solution
-L1 generates a model that is simple and interpretable but cannot learn complex patterns
-L1 is robust to outliers
+L1 has a sparse solution.
+L1 generates a model that is simple and interpretable but cannot learn complex patterns.
+L1 is robust to outliers.
 
 # L2 Regularization:
 L2 regularization is similar to L1 regularization.
